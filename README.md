@@ -1,2 +1,2 @@
-# NikhilPalCreditCard
+# CreditCard
 CREDIT CARD WEEKLY STATUS REPORT
